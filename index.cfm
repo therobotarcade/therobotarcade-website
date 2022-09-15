@@ -39,7 +39,7 @@
                 <li><a target="_blank" href="https://github.com/therobotarcade">GitHub</a></li>
                 <li><a target="_blank" href="https://www.reddit.com/user/TheRobotArcade">Reddit</a></li>
                 <li><a target="_blank" href="https://www.facebook.com/therobotarcade">Facebook</a></li>
-                <li><a target="_blank" href="https://www.youtube.com/channel/UCssk23fUmJjqFjaK2Fgd7Qw">YouTube</a></li>
+                <li><a target="_blank" href="https://www.youtube.com/channel/UCMgqSMTtA2jUeIe6XaxT9vg">YouTube</a></li>
             </ul>
             <!--- /Links --->
 
