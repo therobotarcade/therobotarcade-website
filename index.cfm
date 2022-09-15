@@ -37,7 +37,6 @@
                 <li><a target="_blank" href="https://twitter.com/TheRobotArcade">Twitter</a></li>
                 <li><a target="_blank" href="https://github.com/therobotarcade">GitHub</a></li>
                 <li><a target="_blank" href="https://www.reddit.com/user/TheRobotArcade">Reddit</a></li>
-                <li><a target="_blank" href="https://discuss.openhdfpv.com/u/therobotarcade/">OpenHD</a></li>
                 <li><a target="_blank" href="https://www.facebook.com/therobotarcade">Facebook</a></li>
                 <li><a target="_blank" href="https://www.youtube.com/channel/UCssk23fUmJjqFjaK2Fgd7Qw">YouTube</a></li>
             </ul>
