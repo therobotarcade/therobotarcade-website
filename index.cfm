@@ -34,6 +34,7 @@
                 <li><a href="https://TheRobotArcade.com">Website</a></li>
                 <li><a target="_blank" href="mailto:therobotarcade@gmail.com?subject=Website Message">Email</a> </li>
                 <li><a target="_blank" href="https://www.instagram.com/therobotarcade/">Instagram</a></li>
+                <li><a target="_blank" href="https://www.thingiverse.com/therobotarcade/">Thingiverse</a></li>
                 <li><a target="_blank" href="https://twitter.com/TheRobotArcade">Twitter</a></li>
                 <li><a target="_blank" href="https://github.com/therobotarcade">GitHub</a></li>
                 <li><a target="_blank" href="https://www.reddit.com/user/TheRobotArcade">Reddit</a></li>
