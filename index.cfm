@@ -43,6 +43,18 @@
             </ul>
             <!--- /Links --->
 
+            <section>
+                <strong>arcade</strong>
+                    <br>
+                <i>är-kād′</i>
+                    <br>
+                <i>noun</i>
+                <ol>
+                    <li>A roofed passageway or lane, especially one with shops on one or both sides.</li>
+                    <li>A commercial establishment featuring an array of large mechanical or electronic games, such as pinball machines or video games, that charge players money before each game.</li>
+                </ol>
+            </section>
+
         </div>
         <!--- /Main Container --->
 
