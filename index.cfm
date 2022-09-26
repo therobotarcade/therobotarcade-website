@@ -46,8 +46,6 @@
             <section>
                 <strong>arcade</strong>
                     <br>
-                <i>är-kād′</i>
-                    <br>
                 <i>noun</i>
                 <ol>
                     <li>A roofed passageway or lane, especially one with shops on one or both sides.</li>
